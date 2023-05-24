@@ -16,12 +16,12 @@
 
 ### URL That I Have Created
 
-1. _http://localhost:8000/questions/create_ (To create the questions)
-2. _http://localhost:8000/questions/:id/options/create_ (To create the options of a particular questions)
-3. _http://localhost:8000/options/:id/add_vote_ (To add a vote for a Particular Option)
-4. _http://localhost:8000/questions/:id_ (To get the details about the particular question)
-5. _http://localhost:8000/questions/62ff5f8d8989690a30403f31/delete_ (To delete a Particular Question)
-6. _http://localhost:8000/options/62ff61c492d525ac764ec787/delete_ (To delete a particular option)
+1. _http://localhost:5000/questions/create_ (To create the questions)
+2. _http://localhost:5000/questions/:id/options/create_ (To create the options of a particular questions)
+3. _http://localhost:5000/options/:id/add_vote_ (To add a vote for a Particular Option)
+4. _http://localhost:5000/questions/:id_ (To get the details about the particular question)
+5. _http://localhost:5000/questions/62ff5f8d8989690a30403f31/delete_ (To delete a Particular Question)
+6. _http://localhost:5000/options/62ff61c492d525ac764ec787/delete_ (To delete a particular option)
 
 ## _Note_
 
